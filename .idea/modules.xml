@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LandingLogoGenerator/.idea/LandingLogoGenerator.iml" filepath="$PROJECT_DIR$/../LandingLogoGenerator/.idea/LandingLogoGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MyFlaskApplication/.idea/MyFlaskApplication.iml" filepath="$PROJECT_DIR$/../MyFlaskApplication/.idea/MyFlaskApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PrescoringResumeStreamLit/.idea/PrescoringResumeStreamLit.iml" filepath="$PROJECT_DIR$/../PrescoringResumeStreamLit/.idea/PrescoringResumeStreamLit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PythonProject.iml" filepath="$PROJECT_DIR$/.idea/PythonProject.iml" />
+    </modules>
+  </component>
+</project>

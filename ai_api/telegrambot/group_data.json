@@ -1,0 +1,39 @@
+{
+  "members_history": {
+    "2025-10-22": 4
+  },
+  "messages": [
+    {
+      "message_id": 308,
+      "user_id": 5695368714,
+      "username": "Unknown",
+      "first_name": "Михаил",
+      "text": "более подходящий вариант, бот теперь администратор группы, но ничего страшного в этом нет.",
+      "date": "2025-10-22T11:53:14"
+    },
+    {
+      "message_id": 309,
+      "user_id": 5695368714,
+      "username": "Unknown",
+      "first_name": "Михаил",
+      "text": "тест",
+      "date": "2025-10-22T12:03:41"
+    },
+    {
+      "message_id": 313,
+      "user_id": 5695368714,
+      "username": "Unknown",
+      "first_name": "Михаил",
+      "text": "это он написал, а не я",
+      "date": "2025-10-22T12:24:04"
+    },
+    {
+      "message_id": 314,
+      "user_id": 1381221040,
+      "username": "AndreiWitt",
+      "first_name": "Andrei",
+      "text": "Очень, сильно👍",
+      "date": "2025-10-22T12:40:03"
+    }
+  ]
+}
