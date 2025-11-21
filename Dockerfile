@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
-CMD ["python", "src/ai_api/assistant/test_assistant.py"]
+CMD ["python", "ai_api/assistant/test_assistant.py"]
